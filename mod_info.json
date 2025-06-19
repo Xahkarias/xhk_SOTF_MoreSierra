@@ -1,0 +1,34 @@
+{
+    "id": "z_sotf_xhk_moresierra",
+    "name": "z_Secrets of the Frontier - More Sierra",
+    "author": "Xahkarias, based on the work of Inventor Racoon",
+    "version": "0",
+    "description": "More clothes for the AI wife",
+    "gameVersion": "0.98",
+	"dependencies": [
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib",
+            #"version": "2.6" # If a specific version or higher is required, include this line
+        },
+        {
+            "id": "shaderLib",
+            "name": "GraphicsLib",
+            #"version": "2.6" # If a specific version or higher is required, #include this line
+        },
+        {
+            "id": "MagicLib",
+            "name": "MagicLib",
+            #"version": "0.32rc2" # If a specific version is NOT required, comment out this line
+        },
+        {
+            "id": "secretsofthefrontier",
+            "name": "Secrets of the Frontier",
+            #"version": "2.6" # If a specific version or higher is required, #include this line
+        }
+    ],
+    "replace":[
+        "data\\hulls\\sotf_covenant.ship",
+    ],
+}
+
