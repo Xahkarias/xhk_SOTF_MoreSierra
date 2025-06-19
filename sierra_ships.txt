@@ -1,0 +1,24 @@
+not touched by me = NTBM
+
+Destroyers:
+    Pledge: 
+        the original, NTBM
+    Pact: 
+        hidden in sotf but usable, NTBM
+    Raphael: 
+        from RAT, NTBM
+
+Cruisers:
+    Vow: 
+        the original, NTBM
+
+Capitals:
+    Covenant: 
+        the original, modified to have the correct hullmod
+    Promise: 
+        literally just put sierra in a radiant
+    Obligation: (sprite uses Neon's remnant onslaught)
+        onslaught but slightly faster
+    ObligationMk2: 
+        obligation but less weapons, but weapon arcs are better
+        also has better flux stats and shields
