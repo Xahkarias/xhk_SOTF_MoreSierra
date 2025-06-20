@@ -7,6 +7,11 @@ Destroyers:
         hidden in sotf but usable, NTBM
     Raphael: 
         from RAT, NTBM
+    Dawn:
+        modified Hayle class DD (from diable)
+            has better shield efficiency
+    Kimaris:
+        modified Moloch class DD (from VIC)
 
 Cruisers:
     Vow: 

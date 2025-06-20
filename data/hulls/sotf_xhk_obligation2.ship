@@ -1,8 +1,8 @@
 {
-  "hullName": "Obligation",
-  "hullId": "sotf_xhk_obligation",
+  "hullName": "Obligation Mk. II",
+  "hullId": "sotf_xhk_obligation2",
   "hullSize": "CAPITAL_SHIP",
-  "spriteName": "graphics/ships/sierra/sotf_xhk_obligation.png",
+  "spriteName": "graphics/ships/sierra/sotf_xhk_obligation2.png",
   "style": "SOTF_SIERRA",
   "height": 353,
   "width": 272,
@@ -16,10 +16,6 @@
     "sotf_sierrasconcord",
     "phasefield"
   ],
-  "builtInWeapons": {
-    "WS0023": "tpc",
-    "WS0024": "tpc"
-  },
   "weaponSlots": [
     {
       "id": "WS0002",
@@ -36,8 +32,8 @@
       "type": "BALLISTIC",
       "mount": "TURRET",
       "arc": 165,
-      "angle": 80,
-      "locations": [36, 85.5]
+      "angle": 60,
+      "locations": [37, 76]
     },
     {
       "id": "WS0004",
@@ -45,26 +41,8 @@
       "type": "BALLISTIC",
       "mount": "TURRET",
       "arc": 165,
-      "angle": -80,
-      "locations": [36, -85.5]
-    },
-    {
-      "id": "WS0007",
-      "size": "MEDIUM",
-      "type": "BALLISTIC",
-      "mount": "TURRET",
-      "arc": 150,
-      "angle": 60,
-      "locations": [116.5, 71]
-    },
-    {
-      "id": "WS0008",
-      "size": "MEDIUM",
-      "type": "BALLISTIC",
-      "mount": "TURRET",
-      "arc": 150,
       "angle": -60,
-      "locations": [116.5, -71]
+      "locations": [37, -76]
     },
     {
       "id": "WS0005",
@@ -166,42 +144,6 @@
       "locations": [-50.5, -22]
     },
     {
-      "id": "WS0017",
-      "size": "SMALL",
-      "type": "BALLISTIC",
-      "mount": "TURRET",
-      "arc": 155,
-      "angle": 85,
-      "locations": [72.5, 78]
-    },
-    {
-      "id": "WS0018",
-      "size": "SMALL",
-      "type": "BALLISTIC",
-      "mount": "TURRET",
-      "arc": 155,
-      "angle": -85,
-      "locations": [72.5, -78]
-    },
-    {
-      "id": "WS0019",
-      "size": "SMALL",
-      "type": "BALLISTIC",
-      "mount": "TURRET",
-      "arc": 155,
-      "angle": 85,
-      "locations": [91.5, 74]
-    },
-    {
-      "id": "WS0020",
-      "size": "SMALL",
-      "type": "BALLISTIC",
-      "mount": "TURRET",
-      "arc": 155,
-      "angle": -85,
-      "locations": [91.5, -74]
-    },
-    {
       "id": "WS0021",
       "size": "SMALL",
       "type": "BALLISTIC",
@@ -220,22 +162,40 @@
       "locations": [108.5, -12]
     },
     {
-      "id": "WS0023",
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 165,
+      "angle": 60,
+      "locations": [11.5, 100]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 165,
+      "angle": -60,
+      "locations": [11.5, -100]
+    },
+    {
+      "id": "WS0017",
       "size": "LARGE",
-      "type": "BUILT_IN",
+      "type": "BALLISTIC",
       "mount": "HARDPOINT",
       "arc": 5,
       "angle": 0,
-      "locations": [160.5, 69.5]
+      "locations": [151.5, 73.5]
     },
     {
-      "id": "WS0024",
+      "id": "WS0018",
       "size": "LARGE",
-      "type": "BUILT_IN",
-      "mount": "TURRET",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
       "arc": 5,
-      "angle": 0,
-      "locations": [160.5, -69.5]
+      "angle": -0,
+      "locations": [151.5, -73.5]
     }
   ],
   "engineSlots": [

@@ -1,0 +1,217 @@
+{
+  "hullName": "Dawn",
+  "hullId": "sotf_xhk_dawn",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/sierra/sotf_xhk_dawn.png",
+  "style": "SOTF_SIERRA",
+  "height": 186,
+  "width": 134,
+  "center": [68, 65],
+  "collisionRadius": 129,
+  "shieldCenter": [27, -0.5],
+  "shieldRadius": 100.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "sotf_sierrasconcord",
+    "phasefield"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0007",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": 0,
+      "locations": [0, -0]
+    },
+    {
+      "id": "WS0008",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": 45,
+      "locations": [-3, 30]
+    },
+    {
+      "id": "WS0009",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 135.100006,
+      "angle": -45,
+      "locations": [-3, -30]
+    },
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [20, -17]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -0,
+      "locations": [20, 17]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [23, -30]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -0,
+      "locations": [23, 30]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [26, -43]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -0,
+      "locations": [26, 43]
+    },
+    {
+      "id": "WS0010",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -15, -16,
+        -15, 32
+      ]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-34, 29.5],
+      "length": 7.5,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "DiableAvionicsTrail"
+    },
+    {
+      "location": [-34, -29.5],
+      "length": 7.5,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "DiableAvionicsTrail"
+    },
+    {
+      "location": [-36, 21],
+      "length": 7.5,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "DiableAvionicsTrail"
+    },
+    {
+      "location": [-36, -21],
+      "length": 7.5,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "DiableAvionicsTrail"
+    },
+    {
+      "location": [-64, 5],
+      "length": 7.5,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "DiableAvionicsTrail"
+    },
+    {
+      "location": [-64, -5],
+      "length": 7.5,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "DiableAvionicsTrail"
+    },
+    {
+      "location": [-44.5, 37],
+      "length": 7.5,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "DiableAvionicsTrail"
+    },
+    {
+      "location": [-44.5, -37],
+      "length": 7.5,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "DiableAvionicsTrail"
+    }
+  ],
+  "bounds": [
+    108.5, -5.5,
+    51.5, -5.5,
+    19.5, -10.5,
+    28.5, -50.5,
+    45.5, -53.5,
+    36.5, -60.5,
+    12.5, -60.5,
+    1.5, -65.5,
+    -11.5, -43.5,
+    -37.5, -48.5,
+    -32.5, -34.5,
+    -34.5, -14.5,
+    -62.5, -7.5,
+    -62.5, 7.5,
+    -34.5, 14.5,
+    -32.5, 34.5,
+    -41.5, 39.5,
+    -37.5, 48.5,
+    -11.5, 43.5,
+    1.5, 65.5,
+    12.5, 60.5,
+    36.5, 60.5,
+    45.5, 53.5,
+    28.5, 50.5,
+    19.5, 10.5,
+    51.5, 5.5,
+    108.5, 5.5,
+    120.5, -0
+  ]
+}
