@@ -10,8 +10,17 @@ Destroyers:
     Dawn:
         modified Hayle class DD (from diable)
             has better shield efficiency
+    Judge:
+        modified enforcer class DD
+
+        
+
     Kimaris:
         modified Moloch class DD (from VIC)
+            need to figure out what to change
+    Rend:
+        modified sunder class DD
+    
 
 Cruisers:
     Vow: 

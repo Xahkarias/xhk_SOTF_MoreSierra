@@ -1,0 +1,185 @@
+{
+  "hullName": "Judge",
+  "hullId": "sotf_xhk_judge",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/sierra/sotf_xhk_judge.png",
+  "style": "SOTF_SIERRA",
+  "coversColor": "255,188,175,255",
+  "height": 135,
+  "width": 132,
+  "center": [68, 67],
+  "collisionRadius": 105,
+  "shieldCenter": [-5, 0],
+  "shieldRadius": 96,
+  "viewOffset": 0,
+  "builtInMods": [
+    "sotf_sierrasconcord",
+    "phasefield"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS 001",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 90,
+      "locations": [-16, 42]
+    },
+    {
+      "id": "WS 002",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 125,
+      "angle": 30,
+      "locations": [11, 27]
+    },
+    {
+      "id": "WS 003",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 125,
+      "angle": 0,
+      "locations": [18, 2]
+    },
+    {
+      "id": "WS 004",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 125,
+      "angle": -30,
+      "locations": [11, -27]
+    },
+    {
+      "id": "WS 005",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": -90,
+      "locations": [-16, -42]
+    },
+    {
+      "id": "WS 006",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [30, 47]
+    },
+    {
+      "id": "WS 007",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [40, 28]
+    },
+    {
+      "id": "WS 008",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [40, -28]
+    },
+    {
+      "id": "WS 009",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [30, -47]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-66, 30],
+      "length": 64,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-66, -26],
+      "length": 64,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-66, 39.5],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-65, 21.5],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-65, -17.5],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-66, -35.5],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    37, 56,
+    1, 60,
+    -21, 66,
+    -41, 48,
+    -61, 42,
+    -63, 17,
+    -45, 14,
+    -29, 0,
+    -44, -12,
+    -61, -16,
+    -62, -40,
+    -40, -47,
+    -22, -64,
+    0, -60,
+    37, -56,
+    35, -41,
+    46, -39,
+    44, -24,
+    33, -22,
+    36, -14,
+    49, -19,
+    65, -20,
+    68, -6,
+    68, 8,
+    64, 21,
+    49, 21,
+    39, 15,
+    34, 22,
+    45, 24,
+    45, 40,
+    35, 39
+  ]
+}
