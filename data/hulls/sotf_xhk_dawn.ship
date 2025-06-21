@@ -23,7 +23,7 @@
       "mount": "TURRET",
       "arc": 135,
       "angle": 0,
-      "locations": [0, -0]
+      "locations": [-1, 1]
     },
     {
       "id": "WS0008",
@@ -32,7 +32,7 @@
       "mount": "TURRET",
       "arc": 135,
       "angle": 45,
-      "locations": [-3, 30]
+      "locations": [-4, 31]
     },
     {
       "id": "WS0009",
@@ -41,7 +41,7 @@
       "mount": "TURRET",
       "arc": 135.100006,
       "angle": -45,
-      "locations": [-3, -30]
+      "locations": [-4, -29]
     },
     {
       "id": "WS0001",
@@ -50,7 +50,7 @@
       "mount": "HARDPOINT",
       "arc": 5,
       "angle": 0,
-      "locations": [20, -17]
+      "locations": [20, -16]
     },
     {
       "id": "WS0002",
@@ -59,7 +59,7 @@
       "mount": "HARDPOINT",
       "arc": 5,
       "angle": -0,
-      "locations": [20, 17]
+      "locations": [20, 16]
     },
     {
       "id": "WS0003",
@@ -68,7 +68,7 @@
       "mount": "HARDPOINT",
       "arc": 5,
       "angle": 0,
-      "locations": [23, -30]
+      "locations": [23, -29]
     },
     {
       "id": "WS0004",
@@ -77,7 +77,7 @@
       "mount": "HARDPOINT",
       "arc": 5,
       "angle": -0,
-      "locations": [23, 30]
+      "locations": [23, 29]
     },
     {
       "id": "WS0005",
@@ -86,7 +86,7 @@
       "mount": "HARDPOINT",
       "arc": 5,
       "angle": 0,
-      "locations": [26, -43]
+      "locations": [26, -42]
     },
     {
       "id": "WS0006",
@@ -95,7 +95,7 @@
       "mount": "HARDPOINT",
       "arc": 5,
       "angle": -0,
-      "locations": [26, 43]
+      "locations": [26, 42]
     },
     {
       "id": "WS0010",

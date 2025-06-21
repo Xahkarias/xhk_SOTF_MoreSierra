@@ -1,0 +1,172 @@
+{
+  "hullName": "Kimaris",
+  "hullId": "sotf_xhk_kimaris",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/sierra/sotf_xhk_kimaris.png",
+  "style": "SOTF_SIERRA",
+  "height": 212,
+  "width": 130,
+  "center": [65, 106],
+  "collisionRadius": 125,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 114,
+  "viewOffset": 0,
+  "builtInMods": [
+    "vic_aerodynamicdesign",
+    "vic_dynamicshields",
+    #"vic_shturmSolutionDummy"
+	  "sotf_sierrasconcord",
+    "phasefield"
+  ], 
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 50,
+      "angle": -15,
+      "locations": [-39, -26],
+      "renderOrderMod": 2
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 50,
+      "angle": 15,
+      "locations": [-39, 26],
+      "renderOrderMod": 2
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 139,
+      "angle": -43,
+      "locations": [28, -11],
+      "renderOrderMod": 100
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 139,
+      "angle": 43,
+      "locations": [28, 11],
+      "renderOrderMod": 100
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [-25.5, -49]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": -0,
+      "locations": [-25.5, 49]
+    },
+    {
+      "id": "WS0007",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [53.5, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-96, -14],
+      "length": 55.5,
+      "width": 13,
+      "angle": 180,
+      "contrailSize": 13,
+      "style": "CUSTOM",
+      "styleId": "VOLKOV-LAIDLAW'S"
+    },
+    {
+      "location": [-96, 14],
+      "length": 55.5,
+      "width": 13,
+      "angle": -180,
+      "contrailSize": 13,
+      "style": "CUSTOM",
+      "styleId": "VOLKOV-LAIDLAW'S"
+    },
+    {
+      "location": [-79, -31],
+      "length": 50,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "VOLKOV-LAIDLAW'S"
+    },
+    {
+      "location": [-79, 31],
+      "length": 50,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "CUSTOM",
+      "styleId": "VOLKOV-LAIDLAW'S"
+    }
+  ],
+  "bounds": [
+    -71, 3,
+    -98, 3,
+    -104, 9.5,
+    -95, 9.5,
+    -95, 21,
+    -58.5, 22.5,
+    -78, 24,
+    -78, 37.5,
+    -51, 39.5,
+    -63, 51,
+    -52, 63.5,
+    -23, 44.5,
+    -15, 44,
+    -6.5, 35.5,
+    -16.5, 30.5,
+    -1.5, 23,
+    44, 23,
+    48.5, 18.5,
+    103, 18.5,
+    93.5, 7,
+    67, 7,
+    67, -7,
+    93.5, -7,
+    103, -18.5,
+    48.5, -18.5,
+    44, -23,
+    -1.5, -23,
+    -16.5, -30.5,
+    -6.5, -35.5,
+    -15, -44,
+    -23, -44.5,
+    -52, -63.5,
+    -63, -51,
+    -51, -39.5,
+    -78, -37.5,
+    -78, -24,
+    -58.5, -22.5,
+    -95, -21,
+    -95, -9.5,
+    -104, -9.5,
+    -98, -3,
+    -71, -3
+  ]
+}

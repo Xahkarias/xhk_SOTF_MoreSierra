@@ -12,15 +12,20 @@ Destroyers:
             has better shield efficiency
     Judge:
         modified enforcer class DD
-
-        
-
+            better flux stats
     Kimaris:
         modified Moloch class DD (from VIC)
-            need to figure out what to change
+            better shields
+
+
+
+
+
+
     Rend:
         modified sunder class DD
-    
+
+
 
 Cruisers:
     Vow: 

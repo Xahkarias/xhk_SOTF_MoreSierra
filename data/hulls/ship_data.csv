@@ -10,3 +10,5 @@ Obligation Mk. II,sotf_xhk_obligation2,Battleship,Anomalous Phase-Tech,sotf_conc
 Dawn,sotf_xhk_dawn,Destroyer,Anomalous Phase-Tech,sotf_concordshift,13,4100,410,6250,,425,110,,90,100,55,55,35,400,OMNI,,120,0.4,0.7,0.02,0.04,0,10,50,60,2.5,,9,100000,5,15,420,0.25,11,11,NO_NEURAL_LINK,"no_dealer, codex_unlockable, no_autofit",,,,0.5,2,2,sotf_concordentry,
 # enforcer but better flux dissipation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Judge,sotf_xhk_judge,Destroyer,Anomalous Phase-Tech,sotf_concordshift,12,6000,900,4000,,250,110,,60,40,20,30,20,500,OMNI,,150,0.4,1,0.02,0.04,0,10,90,90,3,30,9,100000,5,12,420,0.25,9,9,NO_NEURAL_LINK,"no_dealer, codex_unlockable, no_autofit",,,,0.5,2,2,sotf_concordentry,
+# moloch but better shields,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kimaris,sotf_xhk_kimaris,Destroyer,Anomalous Phase-Tech,sotf_concordshift,12,4500,450,6500,,400,100,,105,60,35,35,60,375,OMNI,,90,0.4,0.7,0.02,0.04,0,10,60,100,2,30,9,100000,5,12,420,0.25,12,12,NO_NEURAL_LINK,"no_dealer, codex_unlockable, no_autofit",,,,0.5,2,2,sotf_concordentry,
