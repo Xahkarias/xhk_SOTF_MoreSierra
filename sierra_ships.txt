@@ -12,16 +12,16 @@ Destroyers:
             has better shield efficiency
     Judge:
         modified enforcer class DD
-            better flux stats
+            better flux dissipation
     Kimaris:
         modified Moloch class DD (from VIC)
             better shields
 
 
 
-
-
-
+    Scylla
+        modified Eurypterus class DD (from BYD)
+            better flux cap
     Rend:
         modified sunder class DD
 
@@ -36,6 +36,11 @@ Capitals:
         the original, modified to have the correct hullmod
     Promise: 
         literally just put sierra in a radiant
+    steal obligation's name, it will now be the incandescence type capital from emergent threats
+
+    
+
+
     Obligation: (sprite uses Neon's remnant onslaught)
         onslaught but slightly faster
     ObligationMk2: 

@@ -15,7 +15,7 @@
     "sotf_sierrasconcord",
     "phasefield",
 	#"ill_advised",
-    "high_maintenance"
+  # "high_maintenance"
   ],
   "weaponSlots": [
     {
