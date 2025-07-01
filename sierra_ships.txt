@@ -36,7 +36,8 @@ Capitals:
         the original, modified to have the correct hullmod
     Promise: 
         literally just put sierra in a radiant
-    steal obligation's name, it will now be the incandescence type capital from emergent threats
+    Assurance:
+        incandescent class from 
 
     
 
