@@ -1,0 +1,13 @@
+{
+	
+	
+	
+	"graphics":{
+		"fx":{
+			"sotf_promise_highlight":"graphics/ships/sierra/sotf_xhk_promise_glow1.png",
+			"sotf_promise_diffuse":"graphics/ships/sierra/sotf_xhk_promise_glow2.png",
+		},
+	},
+	
+	
+}
