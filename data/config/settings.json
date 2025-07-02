@@ -5,14 +5,17 @@
 			"sotf_covenant_highlight":"graphics/ships/sierra/sotf_covenant_glow1.png",
 			"sotf_covenant_diffuse":"graphics/ships/sierra/sotf_covenant_glow2.png",
 
-			"sotf_xhk_promise_highlight":"graphics/ships/sierra/sotf_xhk_promise_glow1.png",
-			"sotf_xhk_promise_diffuse":"graphics/ships/sierra/sotf_xhk_promise_glow2.png",
+			"sotf_xhk_promise_highlight":"graphics/ships/sierra/sotf_xhk_promise_glow2.png",
+			"sotf_xhk_promise_diffuse":"graphics/ships/sierra/sotf_xhk_promise_glow1.png",
 
-			"sotf_xhk_assurance_highlight":"graphics/ships/sierra/sotf_xhk_assurance_glow1.png",
-			"sotf_xhk_assurance_diffuse":"graphics/ships/sierra/sotf_xhk_assurance_glow2.png",
+			"sotf_xhk_assurance_highlight":"graphics/ships/sierra/sotf_xhk_assurance_glow2.png",
+			"sotf_xhk_assurance_diffuse":"graphics/ships/sierra/sotf_xhk_assurance_glow1.png",
 
-			"sotf_xhk_dawn_highlight":"graphics/ships/sierra/sotf_xhk_dawn_glow1.png",
-			"sotf_xhk_dawn_diffuse":"graphics/ships/sierra/sotf_xhk_dawn_glow2.png",
+			"sotf_xhk_dawn_highlight":"graphics/ships/sierra/sotf_xhk_dawn_glow2.png",
+			"sotf_xhk_dawn_diffuse":"graphics/ships/sierra/sotf_xhk_dawn_glow1.png",
+
+			"sotf_xhk_euryale_highlight":"graphics/ships/sierra/sotf_xhk_euryale_glow2.png",
+			"sotf_xhk_euryale_diffuse":"graphics/ships/sierra/sotf_xhk_euryale_glow1.png",
 		},
 	},
 	
