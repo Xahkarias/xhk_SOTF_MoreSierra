@@ -1,7 +1,16 @@
 id,type,text1,text2,text3,text4,notes
 ,,,,,,
 sotf_xhk_promise,SHIP,"A Radiant-class battleship modified for Sierra's use. While integrating Sierra is simple enough, due to the ship being setup for AI control, integrating the Concord system was a difficult task. But the outcome is simply terrifying: Radiant that does not merely ""skim"" phase space, but submerges into it. Less of an elegant dancer and more of a brute who understands how to dance but cannot move their body properly to the music, the Promise is nevertheless a maul that can open the way.",,,,
-sotf_xhk_dawn,SHIP,"A Hayle-class destroyer modified for Sierra's use. With the phase skimmer replaced by the Concord system, the Dawn dances between realms, disappearing from a hail of fire only to reappear, heralding its return with a swarm of missiles.",,,,
-sotf_xhk_kimaris,SHIP,"A Moloch-class destroyer modified for Sierra's use. Adding the Concord system and keeping the Laidlaw technology used to build the hull, the Kimaris is a perfect fire support unit, weaving in and out of realms to attack with its Laidlaw enhanced weaponry.",,,,
-sotf_xhk_judge,SHIP,"An Enforcer-class destroyer modified for Sierra's use. A curious design, the Concord system help's mitigate the flux problems inherent within the Enforcer design. The resulting ship is able to perform escort duties dutifully, following the tune of a capital ship and adding its weapons to the melody.",,,,
+sotf_xhk_dawn,SHIP,"A Hayle-class destroyer modified for Sierra's use. Though not as powerful as the ships custom made for her, it still works. 
+
+With the phase skimmer replaced by the Concord system, the Dawn dances between realms, disappearing from a hail of fire only to reappear, heralding its return with a swarm of missiles.",,,,
+sotf_xhk_kimaris,SHIP,"A Moloch-class destroyer modified for Sierra's use. Though not as powerful as the ships custom made for her, it still works. 
+
+Adding the Concord system and keeping the Laidlaw technology used to build the hull, the Kimaris is a perfect fire support unit, weaving in and out of realms to attack with its Laidlaw enhanced weaponry.",,,,
+sotf_xhk_judge,SHIP,"An Enforcer-class destroyer modified for Sierra's use. Though not as powerful as the ships custom made for her, it still works. 
+
+A curious design, the Concord system help's mitigate the flux problems inherent within the Enforcer design. The resulting ship is able to perform escort duties dutifully, following the tune of a capital ship and adding its weapons to the melody.",,,,
 sotf_xhk_assurance,SHIP,"An Incandescent-class battleship modified for Sierra's use. While the burn drive has been swapped out for the Concord system, necessitating the removal of some Remnant modifications, the Hydromagnetic cannons have been kept. A lumbering beast, the Concord system is used to buy the ship time to reduce flux, allowing for a withering fusillade of fire.",,,,
+sotf_xhk_euryale,SHIP,"A Medusa-class destroyer modified for Sierra's use.  Though not as powerful as the ships custom made for her, it still works. 
+
+The Euryale acts best as a wingman, or as Sierra likes to put it, a second lead, adding to Sierra's multifaceted orchestra.",,,,

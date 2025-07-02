@@ -10,6 +10,9 @@
 
 			"sotf_xhk_assurance_highlight":"graphics/ships/sierra/sotf_xhk_assurance_glow1.png",
 			"sotf_xhk_assurance_diffuse":"graphics/ships/sierra/sotf_xhk_assurance_glow2.png",
+
+			"sotf_xhk_dawn_highlight":"graphics/ships/sierra/sotf_xhk_dawn_glow1.png",
+			"sotf_xhk_dawn_diffuse":"graphics/ships/sierra/sotf_xhk_dawn_glow2.png",
 		},
 	},
 	
