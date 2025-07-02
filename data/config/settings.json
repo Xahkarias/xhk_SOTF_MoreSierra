@@ -1,11 +1,13 @@
 {
 	
 	"graphics":{
-		"fx":{
+		"fx":{		
 			"sotf_covenant_highlight":"graphics/ships/sierra/sotf_covenant_glow1.png",
 			"sotf_covenant_diffuse":"graphics/ships/sierra/sotf_covenant_glow2.png",
-
+			
+			# first is the bright one
 			"sotf_xhk_promise_highlight":"graphics/ships/sierra/sotf_xhk_promise_glow2.png",
+			# then the dim one
 			"sotf_xhk_promise_diffuse":"graphics/ships/sierra/sotf_xhk_promise_glow1.png",
 
 			"sotf_xhk_assurance_highlight":"graphics/ships/sierra/sotf_xhk_assurance_glow2.png",
@@ -16,6 +18,9 @@
 
 			"sotf_xhk_euryale_highlight":"graphics/ships/sierra/sotf_xhk_euryale_glow2.png",
 			"sotf_xhk_euryale_diffuse":"graphics/ships/sierra/sotf_xhk_euryale_glow1.png",
+
+			"sotf_xhk_kimaris_highlight":"graphics/ships/sierra/sotf_xhk_euryale_glow1.png",
+			"sotf_xhk_kimaris_diffuse":"graphics/ships/sierra/sotf_xhk_euryale_glow2.png",
 		},
 	},
 	
