@@ -2,11 +2,11 @@
 	
 	"graphics":{
 		"fx":{
-			"sotf_promise_highlight":"graphics/ships/sierra/sotf_xhk_promise_glow1.png",
-			"sotf_promise_diffuse":"graphics/ships/sierra/sotf_xhk_promise_glow2.png",
+			"sotf_xhk_promise_highlight":"graphics/ships/sierra/sotf_xhk_promise_glow1.png",
+			"sotf_xhk_promise_diffuse":"graphics/ships/sierra/sotf_xhk_promise_glow2.png",
 
-			"sotf_assurance_highlight":"graphics/ships/sierra/sotf_xhk_assurance_glow1.png",
-			"sotf_assurance_diffuse":"graphics/ships/sierra/sotf_xhk_assurance_glow2.png",
+			"sotf_xhk_assurance_highlight":"graphics/ships/sierra/sotf_xhk_assurance_glow1.png",
+			"sotf_xhk_assurance_diffuse":"graphics/ships/sierra/sotf_xhk_assurance_glow2.png",
 		},
 	},
 	
