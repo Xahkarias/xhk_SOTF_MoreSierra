@@ -13,3 +13,5 @@ Judge,sotf_xhk_judge,Destroyer,Anomalous Phase-Tech,sotf_concordshift,13,6000,90
 Kimaris,sotf_xhk_kimaris,Destroyer,Anomalous Phase-Tech,sotf_concordshift,13,4500,450,6500,,400,100,,105,60,35,35,60,375,OMNI,,90,0.4,0.7,0.02,0.04,0,10,60,100,2,30,9,100000,5,12,420,0.25,12,12,NO_NEURAL_LINK,"no_dealer, codex_unlockable, no_autofit",,,,0.5,2,2,sotf_concordentry,
 # Medusa but better dissipation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Euryale,sotf_xhk_euryale,Destroyer,Anomalous Phase-Tech,sotf_concordshift,13,3000,300,6000,6667,450,100,,100,90,60,40,100,300,OMNI,,120,0.3,0.6,0.02,0.04,0,10,50,40,2,20,9,100000,5,20,300,0.25,12,12,NO_NEURAL_LINK,"no_dealer, codex_unlockable, no_autofit",,,,0.5,2,2,sotf_concordentry,
+# Sunder but has ITU built in,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rend,sotf_xhk_rend,Destroyer,Anomalous Phase-Tech,sotf_concordshift,13,4000,250,7500,8333,500,105,,90,80,60,30,30,350,FRONT,,300,0.4,1.2,0.02,0.04,0,10,80,50,2,25,9,100000,5,15,300,0.25,11,11,NO_NEURAL_LINK,"no_dealer, codex_unlockable, no_autofit",,,,0.5,2,2,sotf_concordentry,
