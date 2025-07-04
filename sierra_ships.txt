@@ -13,11 +13,6 @@ Destroyers:
     Dawn:
         modified Hayle class DD (from diable)
         MAYBE: nerf stats, add missle autoforge (or expanded missile racks)
-    Judge:
-        modified enforcer class DD
-        MAYBE: netf stats, add auxillary thrusters
-        TODO: glow
-        TODO: variants
     Kimaris:
         modified Moloch class DD (from VIC)
     Rend:
@@ -31,10 +26,11 @@ Cruisers:
         the original, NTBM
     Contract:
         jubilant class from Exigent Threats
-        TODO: csv
+        TODO: csv stats
         TODO: ship
         TODO: glow
         TODO: variants
+        TODO: swap text
 
 Capitals:
     Covenant: 
@@ -43,6 +39,25 @@ Capitals:
         literally just put sierra in a radiant
     Assurance:
         incandescent class from Exigent Threat
+
+
+STEPS TO NEW SHIP:
+    make sprite
+    make glow
+    setup glow in settings
+    add stats to csv
+    add ship file
+    add variant file
+    add description
+    add swap text
+
+
+
+
+
+
+
+
 
     
 NEXT TODO:
@@ -59,3 +74,11 @@ todo:
     
 
     fix onslaught mk1
+
+
+    Judge:
+        modified enforcer class DD
+        MAYBE: netf stats, add auxillary thrusters
+        TODO: glow
+        TODO: variants
+        TODO: swap text
