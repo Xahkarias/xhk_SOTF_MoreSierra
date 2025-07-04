@@ -7,29 +7,34 @@ Destroyers:
         hidden in sotf but usable, NTBM
     Raphael: 
         from RAT, NTBM
+    Euryale:
+        modified medusa class DD
+        MAYBE: add energy bolt coherer
     Dawn:
         modified Hayle class DD (from diable)
-            has better shield efficiency
+        MAYBE: nerf stats, add missle autoforge (or expanded missile racks)
     Judge:
         modified enforcer class DD
-            better flux dissipation
+        MAYBE: netf stats, add auxillary thrusters
+        TODO: glow
+        TODO: variants
     Kimaris:
         modified Moloch class DD (from VIC)
-            better shields
-
-
-
-    Scylla
-        modified Eurypterus class DD (from BYD)
-            better flux cap
     Rend:
         modified sunder class DD
-
-
+        MAYBE: remove ITC, add ADVANCED TARgeting core
+    Scylla
+        modified Eurypterus class DD (from BYD)
 
 Cruisers:
     Vow: 
         the original, NTBM
+    Contract:
+        jubilant class from Exigent Threats
+        TODO: csv
+        TODO: ship
+        TODO: glow
+        TODO: variants
 
 Capitals:
     Covenant: 
@@ -37,13 +42,20 @@ Capitals:
     Promise: 
         literally just put sierra in a radiant
     Assurance:
-        incandescent class from 
+        incandescent class from Exigent Threat
+
+    
+NEXT TODO:
+    setup java for getting the ships
+
+
+MAYBE:
+    nerf ship stats back to normal, add hullmods
+
+
+todo:
+    try Kyektziv technocracy
 
     
 
-
-    Obligation: (sprite uses Neon's remnant onslaught)
-        onslaught but slightly faster
-    ObligationMk2: 
-        obligation but less weapons, but weapon arcs are better
-        also has better flux stats and shields
+    fix onslaught mk1
