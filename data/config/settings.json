@@ -24,6 +24,9 @@
 
 			"sotf_xhk_rend_highlight":"graphics/ships/sierra/sotf_xhk_rend_glow1.png",
 			"sotf_xhk_rend_diffuse":"graphics/ships/sierra/sotf_xhk_rend_glow2.png",
+
+			"sotf_xhk_scylla_highlight":"graphics/ships/sierra/sotf_xhk_scylla_glow1.png",
+			"sotf_xhk_scylla_diffuse":"graphics/ships/sierra/sotf_xhk_scylla_glow2.png",
 		},
 	},
 	

@@ -1,0 +1,353 @@
+{
+  "bounds": [
+    -50.5,
+    -4.5,
+    -47.5,
+    -15.5,
+    -27,
+    -23.5,
+    -55,
+    -26,
+    11.5,
+    -32,
+    -1,
+    -49,
+    9.5,
+    -54.5,
+    -1,
+    -71,
+    48,
+    -50.5,
+    75.5,
+    -26,
+    43.5,
+    -16.5,
+    49.5,
+    -0,
+    43.5,
+    16.5,
+    75.5,
+    26,
+    48,
+    50.5,
+    -1,
+    71,
+    9.5,
+    54.5,
+    -1,
+    49,
+    11.5,
+    32,
+    -55,
+    26,
+    -27,
+    23.5,
+    -47.5,
+    15.5,
+    -50.5,
+    4.5,
+    -78,
+    -0
+  ],
+  "builtInMods": [
+    "brfluxmod",
+    "sotf_sierrasconcord",
+    "phasefield",
+  ],
+  "builtInWeapons": {
+    "WS0002": "blinker2",
+    "WS0008": "blinker2",
+    "WS0009": "blinker",
+    "WS0010": "blinker",
+    "WS0011": "blinker2",
+    "WS0012": "blinker",
+    "WS0013": "blinker",
+    "WS0014": "blinker2"
+  },
+  "center": [
+    78.5,
+    109.5
+  ],
+  "collisionRadius": 126.606674,
+  "engineSlots": [
+    {
+      "angle": 170,
+      "contrailSize": 11,
+      "length": 29,
+      "location": [
+        -51,
+        13
+      ],
+      "style": "CUSTOM",
+      "styleId": "BlackrockFlare",
+      "width": 11
+    },
+    {
+      "angle": -170,
+      "contrailSize": 11,
+      "length": 29,
+      "location": [
+        -51,
+        -13
+      ],
+      "style": "CUSTOM",
+      "styleId": "BlackrockFlare",
+      "width": 11
+    },
+    {
+      "angle": 145,
+      "contrailSize": 40,
+      "length": 20,
+      "location": [
+        -1,
+        54.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "BlackrockFlare",
+      "width": 12
+    },
+    {
+      "angle": -145,
+      "contrailSize": 40,
+      "length": 20,
+      "location": [
+        -1,
+        -54.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "BlackrockFlare",
+      "width": 12
+    },
+    {
+      "angle": 180,
+      "contrailSize": 14,
+      "length": 53.5,
+      "location": [
+        -50.5,
+        12.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "BlackrockFlare",
+      "width": 14
+    },
+    {
+      "angle": -180,
+      "contrailSize": 14,
+      "length": 53.5,
+      "location": [
+        -50.5,
+        -12.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "BlackrockFlare",
+      "width": 14
+    },
+    {
+      "angle": 180,
+      "contrailSize": 6,
+      "length": 70,
+      "location": [
+        -50.5,
+        13
+      ],
+      "style": "CUSTOM",
+      "styleId": "BlackrockFlare",
+      "width": 5
+    },
+    {
+      "angle": -180,
+      "contrailSize": 6,
+      "length": 70,
+      "location": [
+        -50.5,
+        -13
+      ],
+      "style": "CUSTOM",
+      "styleId": "BlackrockFlare",
+      "width": 5
+    }
+  ],
+  "height": 218,
+  "hullId": "sotf_xhk_scylla",
+  "hullName": "Scylla",
+  "hullSize": "DESTROYER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 124.780807,
+  "spriteName": "graphics/ships/sierra/sotf_xhk_scylla.png",
+  "style": "SOTF_SIERRA",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 10,
+      "id": "WS0001",
+      "locations": [
+        57,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -0,
+      "arc": 10,
+      "id": "WS0003",
+      "locations": [
+        78.5,
+        26
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "COMPOSITE"
+    },
+    {
+      "angle": 0,
+      "arc": 10,
+      "id": "WS0004",
+      "locations": [
+        78.5,
+        -26
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "COMPOSITE"
+    },
+    {
+      "angle": 45,
+      "arc": 140,
+      "id": "WS0005",
+      "locations": [
+        46.5,
+        42.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -45,
+      "arc": 140,
+      "id": "WS0006",
+      "locations": [
+        46.5,
+        -42.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -180,
+      "arc": 240,
+      "id": "WS0007",
+      "locations": [
+        -27,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        -1.5,
+        71
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0008",
+      "locations": [
+        -1.5,
+        -71
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0009",
+      "locations": [
+        54.5,
+        61
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0010",
+      "locations": [
+        54.5,
+        -61
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0011",
+      "locations": [
+        21.5,
+        12
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0012",
+      "locations": [
+        -58.5,
+        25
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0013",
+      "locations": [
+        -58.5,
+        -25
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0014",
+      "locations": [
+        -97.5,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 157
+}
