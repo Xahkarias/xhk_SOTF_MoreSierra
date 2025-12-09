@@ -9,28 +9,20 @@ Destroyers:
         from RAT, NTBM
     Euryale:
         modified medusa class DD
-        MAYBE: add energy bolt coherer
     Dawn:
         modified Hayle class DD (from diable)
-        MAYBE: nerf stats, add missle autoforge (or expanded missile racks)
     Kimaris:
         modified Moloch class DD (from VIC)
     Rend:
         modified sunder class DD
-        MAYBE: remove ITC, add ADVANCED TARgeting core
     Scylla
         modified Eurypterus class DD (from BYD)
+    Tartarus
+        modified Elysia class DD (from Valkyrians)
 
 Cruisers:
     Vow: 
         the original, NTBM
-    Contract:
-        jubilant class from Exigent Threats
-        TODO: csv stats
-        TODO: ship
-        TODO: glow
-        TODO: variants
-        TODO: swap text
 
 Capitals:
     Covenant: 
@@ -61,7 +53,20 @@ STEPS TO NEW SHIP:
 
     
 NEXT TODO:
+    do tartarus
+        make glow
+        setup glow in settings
+        add stats
+        add ship file
+        add variant file
+        add description
+        add swap text
+
+
     setup java for getting the ships
+
+
+    
 
 
 MAYBE:
@@ -69,9 +74,19 @@ MAYBE:
 
 
 todo:
+
+    extra ships:
+        valkryans: elfheim
+        diable: polarV
+        vic: samael
+
+
     try Kyektziv technocracy
 
     
+
+
+
 
     fix onslaught mk1
 
