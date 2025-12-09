@@ -10,6 +10,11 @@
 			# then the dim one
 			"sotf_xhk_promise_diffuse":"graphics/ships/sierra/sotf_xhk_promise_glow1.png",
 
+			# first is the bright one
+			"sotf_xhk_contract_highlight":"graphics/ships/sierra/sotf_xhk_contract_glow2.png",
+			# then the dim one
+			"sotf_xhk_contract_diffuse":"graphics/ships/sierra/sotf_xhk_contract_glow1.png",
+
 			"sotf_xhk_assurance_highlight":"graphics/ships/sierra/sotf_xhk_assurance_glow2.png",
 			"sotf_xhk_assurance_diffuse":"graphics/ships/sierra/sotf_xhk_assurance_glow1.png",
 

@@ -4,14 +4,15 @@ SierraSwitchEuryale,SierraNewShipThought,$sotf_newSierraShip == sotf_xhk_euryale
 SetTextHighlights ""\""The Euryale.. A bit basic, but every song starts from nothing!\""""","""The Euryale.. A bit basic, but every song starts from nothing!""",,
 SierraSwitchDawn,SierraNewShipThought,$sotf_newSierraShip == sotf_xhk_dawn,"SetTextHighlightColors sierraTextColor
 SetTextHighlights ""\""The Dawn always has more missiles than I knew what to do with, maybe I'll come up with something new this time.\""""","""The Dawn always has more missiles than I knew what to do with, maybe I'll come up with something new this time.""",,
-"# not doinge the judge yet						",,,,,,
 SierraSwitchKimaris,SierraNewShipThought,$sotf_newSierraShip == sotf_xhk_kimaris,"SetTextHighlightColors sierraTextColor
 SetTextHighlights ""\""Such an elegant design, the Kimaris always makes me wonder what it would feel like to fly in the air.\""""","""Such an elegant design, the Kimaris always makes me wonder what it would feel like to fly in the air.""",,
 SierraSwitchRend,SierraNewShipThought,$sotf_newSierraShip == sotf_xhk_rend,"SetTextHighlightColors sierraTextColor
-SetTextHighlights ""\""Feels strange to dance at the end of their range instead of in their face, but that’s what the Rend does best.\""""","""Feels strange to dance at the end of their range instead of in their face, but that’s what the Rend does best.""",,
+SetTextHighlights ""\""Feels strange to dance at the end of their range instead of in their face, but that's what the Rend does best.\""""","""Feels strange to dance at the end of their range instead of in their face, but thatï¿½s what the Rend does best.""",,
 SierraSwitchScylla,SierraNewShipThought,$sotf_newSierraShip == sotf_xhk_scylla,"SetTextHighlightColors sierraTextColor
-SetTextHighlights ""\""Did you know that crabs are distantly related to moths? At least, that’s what I found out when researching the former name of this ship.\""""","""Did you know that crabs are distantly related to moths? At least, that’s what I found out when researching the former name of this ship.""",,
+SetTextHighlights ""\""Did you know that crabs are distantly related to moths? At least, that's what I found out when researching the former name of this ship.\""""","""Did you know that crabs are distantly related to moths? At least, thatï¿½s what I found out when researching the former name of this ship.""",,
 SierraSwitchPromise,SierraNewShipThought,$sotf_newSierraShip == sotf_xhk_promise,"SetTextHighlightColors sierraTextColor
+SetTextHighlights ""\""Feels a bit strange to control a ship that was formerly controlled by another AI, but the feeling is fleeting, like a moth in the wind. That's how the metaphor works right?\""""","""Feels a bit strange to control a ship that was formerly controlled by another AI, but the feeling is fleeting, like a moth in the wind. That's how the metaphor works right?""",,
+SierraSwitchContract,SierraNewShipThought,$sotf_newSierraShip == sotf_xhk_contract,"SetTextHighlightColors sierraTextColor
 SetTextHighlights ""\""Feels a bit strange to control a ship that was formerly controlled by another AI, but the feeling is fleeting, like a moth in the wind. That's how the metaphor works right?\""""","""Feels a bit strange to control a ship that was formerly controlled by another AI, but the feeling is fleeting, like a moth in the wind. That's how the metaphor works right?""",,
 SierraSwitchAssurance,SierraNewShipThought,$sotf_newSierraShip == sotf_xhk_assurance,"SetTextHighlightColors sierraTextColor
 SetTextHighlights ""\""Now this is a ship that Seraph would approve of, what a melody I can play with this!\""""","""Now this is a ship that Seraph would approve of, what a melody I can play with this!""",,

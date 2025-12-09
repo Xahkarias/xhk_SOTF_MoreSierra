@@ -61,6 +61,8 @@ NEXT TODO:
         add variant file
         add description
         add swap text
+    do contract
+        add variant file
 
 
     setup java for getting the ships
